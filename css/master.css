@@ -1,0 +1,94 @@
+/*ul{ list-style:none; width:200px; margin:0; padding:0; }
+li{ height:18px; padding: 2px 4px; margin:2px; border:1px solid #666; }
+li span{ float:left; }
+*/
+
+body {
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+footer{
+	text-align:center;
+	font-size:0.8em;
+	padding: 10px 0;
+}
+#wraperi{
+	margin:0 auto;
+	overflow:hidden;
+	width:300px;
+	min-height:300px;
+}
+#wrapere{
+	margin:0 auto;
+	overflow:hidden;
+	width:400px;
+	min-height:300px;
+	margin-top:10%;
+}
+
+#wraper{
+	margin:0 auto;
+	overflow:hidden;
+	width:800px;
+	min-height:300px;
+}
+
+.center{
+	margin: 0 auto;
+}
+
+.addUser{
+	width: 150px;
+	height: auto;
+	padding: 10px;
+}
+
+#ajaxLoader{
+	
+	margin-top:10px;
+	width:94%;
+	height:auto;
+	border: 1px solid rgba(0,0,0,0.20);
+	border-radius: 4px;
+	font-size: 0.8em;
+	padding: 4px;
+	outline: none;
+	background: #FFF;
+	text-align: center;
+}
+
+#ajaxLoader img {
+	vertical-align: middle;
+}
+
+#listadoUnidades .centerTXT{
+	text-align: center;
+}
+
+.error{
+	font-size:0.8em;
+	color:#C33;
+}
+
+#listadoProgramas .centerTXT{
+	text-align: center;
+}
+
+#listadoProveedores .centerTXT{
+	text-align:center;
+}
+
+#wrapera{
+	margin:0 auto;
+	overflow:hidden;
+	width:90%;
+	/*min-height:300px;*/
+}
+    #miMapa {
+		 height: 500px;
+		 width: 95%;
+		  alignment-adjust:central
+}
